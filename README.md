@@ -10,8 +10,7 @@ ruby StalkActiveUsers.rb eClVIBPQvXA
 ```
 Returns a list of all (unique) commenters on that video.
 
-or
-
+or  
 ```
 ruby StalkActiveUsers.rb http://www.youtube.com/all_comments?v=eClVIBPQvXA
 ```
@@ -22,6 +21,6 @@ MIT
 
 ##Credits
 ================
-Made my me (Andreas Bjørn Hassing Nielsen)
-me@andreasbjorn.net
+Made my me (Andreas Bjørn Hassing Nielsen)  
+me@andreasbjorn.net  
 http://andreasbjorn.net/
