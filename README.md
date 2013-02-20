@@ -15,3 +15,13 @@ or
 ```
 ruby StalkActiveUsers.rb http://www.youtube.com/all_comments?v=eClVIBPQvXA
 ```
+
+##License
+================
+MIT
+
+##Credits
+================
+Made my me (Andreas Bjørn Hassing Nielsen)
+me@andreasbjorn.net
+http://andreasbjorn.net/
